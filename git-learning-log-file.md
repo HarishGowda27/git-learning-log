@@ -1,5 +1,5 @@
 
-# My Learning Log
+# My Learning Log- Main
 
 ## About This Project
 I'm learning Git and version control to track my work.
