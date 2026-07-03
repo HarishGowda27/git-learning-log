@@ -1,7 +1,5 @@
 const {test, expect} = require('@playwright/test')
 
-//CHANGES IN SB
-
 
 let url = "https://automationexercise.com/login"
 let username_email ="Apple@123";
